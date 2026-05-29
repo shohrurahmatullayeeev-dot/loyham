@@ -1,36 +1,27 @@
-# 🚀 Zamonaviy Portfolio Sayt | Shohruh
+# 🚀 Zamonaviy Frontend Portfolio Sayt | Shohruh
 
-Bu mening shaxsiy portfolio veb-saytim bo'lib, unda men o'zimning backend va bot dasturlash bo'yicha ko'nikmalarim, loyihalarim va tajribamni taqdim etganman. Sayt zamonaviy **Dark Mode** stili, mukammal vizual effektlar va silliq navigatsiya tizimiga ega.
+Bu mening shaxsiy portfolio veb-saytim bo'lib, unda men o'zimning Frontend dasturlash bo'yicha ko'nikmalarim, interaktiv loyihalarim va ijodiy ishlarimni taqdim etganman. Sayt zamonaviy **Dark Mode** stili, mukammal vizual effektlar va silliq navigatsiya tizimiga ega.
 
 ✨ **Jonli demo versiyani ko'rish:** [Shohruh Portfolio](SAHYTINGIZNING_LINKS)
 
 ---
 
-## 🖥️ Saytdan Lavhalar (Dizayn)
-
-📌 **Asosiy qism (Hero Section):**
-![Portfolio Preview](https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop) 
-*(Eslatma: Bu yerga saytingizning skrinshot havolasini qo'yishingiz mumkin)*
-
----
-
 ## 🛠️ Texnologiyalar va Ko'nikmalar
 
-Ushbu loyihani yaratishda va mening kundalik faoliyatimda quyidagi texnologiyalardan foydalaniladi:
+Frontend yo'nalishida foydalanadigan asosiy texnologiyalarim:
 
-* **Frontend:** HTML5, CSS3 (Modern Flexbox/Grid, Glassmorphism, Custom Animations), JavaScript (Smooth Scroll Optimization)
-* **Backend & Bot:** Python, Django, Telethon, AIOGram
-* **Ma'lumotlar bazasi:** SQLite, PostgreSQL
-* **Asboblar:** Git, GitHub, VS Code
+* **Tillar:** HTML5, CSS3, JavaScript (ES6+)
+* **Dizayn va Stil:** Modern Flexbox/Grid, Glassmorphism effektlari, Maxsus CSS animatsiyalar, Responsive Design (Mobil qurilmalarga moslashuvchanlik)
+* **Kutubxonalar va amaliyot:** DOM manipulatsiyasi, Smooth Scroll (Silliq skrol) mexanizmlari
+* **Asboblar:** Git, GitHub, VS Code, Canva, Tilda
 
 ---
 
 ## ⚡ Xususiyatlari va Afzalliklari
 
 * **Modern & Minimalistic UI:** Ko'zni charchatmaydigan to'q rangli mavzu (Dark Mode) va neon gradientlar.
-* **Responsive Design:** Smartfonlar, planshetlar va kompyuterlar ekraniga to'liq moslashuvchan (Mobile-friendly).
-* **JavaScript Smooth Scroll:** Navigatsiya paneli (Navbar) tugmalari bosilganda sahifaning kerakli bo'limiga silliq va aniq o'tish mexanizmi.
-* **Glassmorphism Effect:** Yuqori navigatsiya paneli uchun zamonaviy xiralashtirilgan orqa fon effekti.
+* **Responsive Layout:** Smartfonlar, planshetlar va kompyuterlar ekraniga to'liq moslashuvchan (Mobile-friendly).
+* **JavaScript UI Optimization:** Navigatsiya paneli (Navbar) tugmalari bosilganda sahifaning kerakli bo'limiga silliq va aniq o'tish (Smooth Scroll) skripti integratsiya qilingan.
 
 ---
 
@@ -39,6 +30,6 @@ Ushbu loyihani yaratishda va mening kundalik faoliyatimda quyidagi texnologiyala
 ```text
 portfolio/
 │
-├── index.html     # Saytning asosiy tarkibi va tuzilishi (HTML5)
-├── style.css      # Zamonaviy dizayn, ranglar va animatsiyalar (CSS3)
+├── index.html     # Saytning tarkibi, matnlari va semantik tuzilishi (HTML5)
+├── style.css      # Zamonaviy dizayn, ranglar, piksellar va animatsiyalar (CSS3)
 └── README.md      # Loyiha haqida ma'lumot (Ushbu fayl)
